@@ -1,5 +1,5 @@
 # Identify-Customer-Segments
-Udacity Data Scientist Nanodegree Project 3 Identify Customer Segments  
+Project 3 on unsupervised learning and dimensionality reduction- Udacity Nanodegree Program on "Introduction to Machine Learning using TensorFlow"
 
 ## Installation
 Python versions 3, Jupyter Notebook
